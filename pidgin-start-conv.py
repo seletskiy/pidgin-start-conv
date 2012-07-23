@@ -1,0 +1,1 @@
+/home/s.seletskiy/bin/pidgin-start-conv.py
